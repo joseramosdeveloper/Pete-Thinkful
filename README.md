@@ -1,2 +1,1 @@
-# Pete-Thinkful
-First Simple HTML/CSS Web Page Demo
+# starter-pete-thinkful-portfolio
